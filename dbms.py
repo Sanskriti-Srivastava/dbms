@@ -19,4 +19,4 @@ for name, age, city in people:
             print(name)
             print(age)
             print(city)
-            print()
+           
